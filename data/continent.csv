@@ -1,0 +1,200 @@
+Continent,Pays
+north-america,Canada
+north-america,US
+north-america,Mexico
+north-america,Guatemala
+north-america,Belize
+north-america,El Salvador
+north-america,Honduras
+north-america,Costa Rica
+north-america,Nicaragua
+north-america,Panama
+north-america,Bermuda
+north-america,Bahamas
+north-america,Haiti
+north-america,Cuba
+north-america,Jamaica
+north-america,Dominican Republic
+north-america,Dominica
+north-america,St.Kitts and Nevis
+north-america,St. Lucia
+north-america,St. Vincent and The Grenadines
+north-america,Barbados
+north-america,Grenada
+north-america,Trinidad and Tobago
+south-america,Columbia
+south-america,Venezuela
+south-america,Guyana
+south-america,Suriname
+south-america,Brazil
+south-america,Ecuador
+south-america,Peru
+south-america,Bolivia
+south-america,Paraguay
+south-america,Chile
+south-america,Argentina
+south-america,Uruguay
+europe,Iceland
+europe,Norway
+europe,Sweden
+europe,Finland
+europe,Russia
+europe,Estonia
+europe,Latvia
+europe,Lithuania
+europe,Belarus
+europe,Ireland
+europe,UK
+europe,Denmark
+europe,Portugal
+europe,Spain
+europe,Andorra
+europe,France
+europe,Monaco
+europe,Switzerland
+europe,Lieischenstein
+europe,Luxembourg
+europe,Belgium
+europe,Netherlands
+europe,Germany
+europe,Italy
+europe,Malta
+europe,San Marino
+europe,Poland
+europe,Czech Republic
+europe,Slovakia
+europe,Austria
+europe,Hungary
+europe,Slovenia
+europe,Croatia
+europe,Bosnia and Herzegovina
+europe,Serbia
+europe,Montenegro
+europe,Albania
+europe,Macedonia
+europe,Greece
+europe,Bulgaria
+europe,Romania
+europe,Moldova
+europe,Ukraine
+africa,Morocco
+africa,Algeria
+africa,Tunisia
+africa,Libya
+africa,Egypt
+africa,Mauritania
+africa,Mali
+africa,Senegal
+africa,Gambia
+africa,Guinea Bissau
+africa,Guinea
+africa,Sierra Leone
+africa,Liberia
+africa,Ivory Coast
+africa,Ghana
+africa,Burkina
+africa,Togo
+africa,Benin
+africa,Niger
+africa,Nigeria
+africa,Chad
+africa,Cameroon
+africa,Central African Republic
+africa,(North) Sudan
+africa,South Sudan
+africa,Eritrea
+africa,Djibouti
+africa,Ethiopia
+africa,Somalia
+africa,Equatorial Guinea
+africa,Gabon
+africa,Republic of Congo
+africa,(Democratic Republic of) Congo
+africa,Uganda
+africa,Kenya
+africa,Rwanda
+africa,Burundi
+africa,Tanzania
+africa,Angola
+africa,Zambia
+africa,Malawi
+africa,Mozambique
+africa,Namibia
+africa,Botswana
+africa,Zimbabwe
+africa,South Africa
+africa,Lesotho
+africa,Swaziland
+africa,Seychelles
+africa,Comoros
+africa,Madagascar
+africa,Mauritius
+africa,Cape Verde
+africa,Sai Tome and Principe
+asia,Yemen
+asia,Oman
+asia,UAE
+asia,Qatar
+asia,Bahrain
+asia,Saudi Arabia
+asia,Kuwait
+asia,Iraq
+asia,Jordan
+asia,Israel
+asia,Lebanon
+asia,Syria
+asia,Cyprus
+asia,Turkey*
+asia,Georgia*
+asia,Armenia*
+asia,Azerbaijan
+asia,Iran
+asia,Afghanistan
+asia,Pakistan
+asia,Turkmenistan
+asia,Uzbekistan
+asia,Tajikistan
+asia,Kyrgyzstan
+asia,Kazakhstan
+asia,China
+asia,Mongolia
+asia,India
+asia,Nepal
+asia,Srilanka
+asia,Maldives
+asia,Bhutan
+asia,Bangladesh
+asia,Myanmar
+asia,Thailand
+asia,Laos
+asia,Cambodia
+asia,Vietnam
+asia,Malaysia
+asia,Singapore
+asia,Brunei
+asia,Indonesia
+asia,East Timor
+asia,Philippines
+asia,South Korea
+asia,North Korea
+asia,Japan
+oceania,Australia
+oceania,New Zealand
+oceania,Papua New Guinea
+oceania,Palau
+oceania,Micronesia
+oceania,Marshall Islands
+oceania,Nauru
+oceania,Vanuatu
+oceania,Solomon Islands
+oceania,Kiribati
+oceania,Tuvalu
+oceania,Tonga
+oceania,Fiji
+oceania,Samoa
+non-un-member-nations,Kosova
+non-un-member-nations,Palestine
+non-un-member-nations,Western Sahara
+non-un-member-nations,Turkish Cyprus
+non-un-member-nations,Taiwan
+non-un-member-nations,Vatican City
