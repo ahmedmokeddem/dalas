@@ -1,0 +1,502 @@
+,Pays,Rang,Score
+0, United States,1,100
+1, United Kingdom,2,99.2
+2, United Kingdom,3,98.9
+3, United States,4,98.3
+4, United States,5,98.1
+5, United Kingdom,6,97.8
+6, Switzerland,7,93.3
+7, Singapore,8,92.7
+8, United Kingdom,9,92.4
+9, United States,10,90.4
+10, United States,11,90.3
+11, United States,12,89.4
+12, United States,13,89.3
+13, Australia,14,87.9
+14, United States,15,87.8
+15, United States,16,87.7
+16, China (Mainland),=17,87
+17, United States,=17,87
+18, Australia,=19,86.7
+19, Australia,=19,86.7
+20, Canada,21,86.3
+21, United Kingdom,22,86.1
+22, United States,23,85.9
+23, France,24,85.8
+24, China (Mainland),25,84.9
+25, Singapore,=26,84.5
+26, Hong Kong SAR,=26,84.5
+27, United States,28,84.5
+28, Japan,28,84.3
+29, United States,29,83.8
+30, Canada,30,83.7
+31, United Kingdom,32,82.2
+32, United States,33,81.7
+33, Australia,=34,81.5
+34, Canada,=34,81.5
+35, Switzerland,36,80.4
+36, Germany,37,80
+37, France,=38,79.5
+38, United States,=38,79.5
+39, United Kingdom,40,79.3
+40, South Korea,41,78.5
+41, Australia,42,78.2
+42, Australia,43,78.1
+43, China (Mainland),=44,77.8
+44, United Kingdom,45,76.9
+45, Japan,46,76.3
+46, Netherlands,=47,76.2
+47, United States,=47,76.2
+48, Hong Kong SAR,=47,76.2
+49, China (Mainland),50,74.4
+50, China (Mainland),51,74.3
+51, United States,52,73.7
+52, Netherlands,53,73.4
+53, Germany,54,72.5
+54, United Kingdom,55,72.4
+55, South Korea,56,72.2
+56, United States,57,72
+57, United States,58,71.8
+58, France,59,71.7
+59, Hong Kong SAR,60,71.1
+60, Belgium,61,70.1
+61, United States,62,70
+62, United States,63,69.2
+63, United States,64,69.1
+64, Hong Kong SAR,=65,68.7
+65, Malaysia,=65,68.7
+66, United Kingdom,67,68.6
+67, New Zealand,68,68
+68, Taiwan,69,67.9
+69,Hong Kong SAR,70,67.7
+70, France,71,67.6
+71, Australia,72,66.9
+72, United States,=73,66.4
+73, Sweden,=73,66.4
+74, United Kingdom,75,65.5
+75, United Kingdom,=76,65.2
+76, South Korea,=76,65.2
+77, United Kingdom,78,65.1
+78, South Korea,79,64.7
+79, Japan,80,63.9
+80, Ireland,=81,63.5
+81, United Kingdom,=81,63.5
+82, United States,83,63.1
+83, United Kingdom,84,63
+84, Sweden,=85,62.8
+85, Brazil,=85,62.8
+86, Russia,=87,62.2
+87, Germany,=87,62.2
+88, Australia,89,62
+89, Australia,90,61.8
+90, Japan,=91,61.6
+91, Switzerland,=91,61.6
+92, United States,=93,61.4
+93, Mexico,=93,61.4
+94, Argentina,=95,61
+95, United Kingdom,=95,61
+96, United States,97,60.9
+97, Germany,98,60.8
+98, United States,99,60.7
+99, South Korea,=100,60.4
+100, United Kingdom,=100,60.4
+101, United States,102,60
+102, Chile,103,59.9
+103, United Kingdom,104,59.7
+104, Sweden,105,59.4
+105, Germany,106,59.3
+106, Denmark,=107,58.8
+107, Netherlands,=107,58.8
+108, Finland,109,58.7
+109, United Kingdom,110,58.6
+110, Canada,111,58.3
+111, Canada,112,58.1
+112, Japan,113,58
+113, Canada,114,57.4
+114, Finland,115,57.2
+115, United States,116,57.1
+116, Norway,117,56.9
+117, Sweden,118,56.8
+118, United States,=118,56.7
+119, Germany,119,56.4
+120, Germany,120,56.3
+121, Denmark,121,56.2
+122, United Kingdom,122,55.7
+123, Italy,123,55.2
+124, Netherlands,=124,55
+125, Switzerland,=124,55
+126, Netherlands,=126,54.8
+127, Switzerland,=126,54.8
+128, Switzerland,128,54.2
+129, Sweden,129,54
+130, Australia,=130,53.7
+131, Austria,=130,53.7
+132, United States,=132,53.2
+133, Italy,=134,52.9
+134, United States,=134,52.9
+135, United States,136,52.7
+136, Malaysia,=137,52.6
+137, China (Mainland),=137,52.6
+138, Netherlands,139,52.5
+139, Australia,140,52.4
+140, China (Mainland),=141,52.1
+141, Canada,=141,52.1
+142, Denmark,=143,52
+143, Saudi Arabia,=143,52
+144, United Kingdom,=145,51.9
+145, United States,=145,51.9
+146, South Korea,=145,51.9
+147, United Kingdom,148,51.8
+148, India,=149,51.7
+149, Spain,=149,51.7
+150, United States,=151,51.3
+151, Netherlands,=151,51.3
+152, United Kingdom,153,50.9
+153, Italy,=154,50.5
+154, United Kingdom,=154,50.5
+155, Germany,=154,50.5
+156, United States,=154,50.5
+157, Malaysia,158,50.4
+158, Belgium,=159,50.2
+159, Chile,=159,50.2
+160, Malaysia,=159,50.2
+161, Australia,162,50.1
+162, United States,163,50
+163, South Korea,=164,49.7
+164, Japan,=164,49.7
+165, Spain,=164,49.7
+166, United States,=166,49.6
+167, United Kingdom,167,49.4
+168, United States,168,49.1
+169, United States,=169,48.9
+170, United Kingdom,=169,48.9
+171, Spain,=171,48.8
+172, Ireland,=171,48.8
+173, Qatar,=173,48.7
+174, Australia,=173,48.7
+175, South Africa,=173,48.7
+176, Netherlands,=176,48.5
+177, Japan,=176,48.5
+178, United Kingdom,=176,48.5
+179, United States,179,48.1
+180, Saudi Arabia,=180,48
+181, Belgium,=180,48
+182, Canada,182,47.9
+183, Australia,183,47.8
+184, Austria,=184,47.6
+185, Mexico,=184,47.6
+186, France,=184,47.6
+187, Sweden,187,47.3
+188, Malaysia,188,46.9
+189, Canada,=189,46.8
+190, Australia,=189,46.8
+191, Belgium,=189,46.8
+192, Germany,=192,46.7
+193, France,=192,46.7
+194, China (Mainland),194,46.6
+195, United States,195,46.4
+196, Japan,196,46.2
+197, India,197,46.1
+198, Colombia,198,46
+199, Spain,=199,45.9
+200, Japan,=199,45.9
+201, United Kingdom,202,45.8
+202, Saudi Arabia,=203,45.2
+203, Canada,=203,45.2
+204, Germany,205,45.1
+205, New Zealand,206,45
+206, Netherlands,207,44.9
+207, United Kingdom,208,44.6
+208, Canada,209,44.5
+209, Netherlands,210,44.4
+210, Thailand,211,44.3
+211, United Kingdom,212,44.2
+212, Germany,213,44.1
+213, Japan,214,44
+214, Israel,215,43.9
+215, China (Mainland),216,43.5
+216, Taiwan,217,43.3
+217, United Kingdom,218,43.1
+218, Italy,219,43
+219, Brazil,=220,42.7
+220, Switzerland,=220,42.7
+221, Netherlands,=222,42.5
+222, United States,=222,42.5
+223, United States,224,42.4
+224, India,225,42.1
+225, Lebanon,=226,41.9
+226, Colombia,=226,41.9
+227, Taiwan,228,41.8
+228, Germany,229,41.7
+229, Kazakhstan,=230,41.6
+230, United Arab Emirates,=230,41.6
+231, Germany,232,41.4
+232, Australia,=233,41.3
+233, Taiwan,=233,41.3
+234, United Kingdom,235,41.2
+235, France,236,41.1
+236, United States,=237,40.9
+237, Indonesia,=237,40.9
+238, New Zealand,=239,40.6
+239, Germany,=239,40.6
+240, New Zealand,241,40.5
+241, Australia,242,40.3
+242, Australia,243,40.1
+243, United Kingdom,244,39.9
+244, United States,245,39.8
+245, Germany,=246,39.7
+246, Germany,=246,39.7
+247, Czechia,=248,39.6
+248, Belgium,=248,39.6
+249, New Zealand,250,39.5
+250, Israel,251,39.3
+251, Italy,252,39.2
+252, Portugal,253,39
+253, Macau SAR,254,38.9
+254, United States,255,38.8
+255, China (Mainland),=256,38.7
+256, Netherlands,=256,38.7
+257, New Zealand,=256,38.7
+258, Belgium,259,38.6
+259, United States,260,38.5
+260, United States,261,38.4
+261, Poland,262,38.1
+262, Indonesia,263,38
+263, United States,=264,37.9
+264, South Africa,=264,37.9
+265, South Korea,=266,37.7
+266, Portugal,=266,37.7
+267, Sweden,=268,37.5
+268, United States,=268,37.5
+269, Germany,=268,37.5
+270, India,271,37.4
+271, China (Mainland),=272,37.3
+272, United Kingdom,=272,37.3
+273, United States,274,37.2
+274, China (Mainland),275,37.1
+275, Italy,=276,37
+276, United Kingdom,=276,37
+277, India,=278,36.9
+278, United States,=278,36.9
+279, Spain,280,36.8
+280, Indonesia,=281,36.6
+281, Norway,=281,36.6
+282, South Africa,283,36.5
+283, Malaysia,284,36.2
+284, India,=285,36.1
+285, Australia,=285,36.1
+286, United States,=285,36.1
+287, China (Mainland),=285,36.1
+288, Ireland,289,36
+289, United Arab Emirates,290,35.9
+290, China (Mainland),291,35.8
+291, Norway,=292,35.7
+292, Ireland,=292,35.7
+293, France,294,35.6
+294, Hong Kong SAR,=295,35.4
+295, United Kingdom,=295,35.4
+296, United States,297,35.3
+297, Canada,298,34.9
+298, United States,299,34.8
+299, Malaysia,300,34.7
+300, China (Mainland),301,34.6
+301, Germany,=302,34.5
+302, United States,=302,34.5
+303, Poland,=304,34.3
+304, United States,=304,34.3
+305, South Africa,306,34
+306, South Korea,307,34
+307, United Kingdom,=307,33.9
+308, Malaysia,=307,33.9
+309, Australia,=307,33.9
+310, Qatar,=310,33.8
+311, Spain,=310,33.8
+312, Germany,312,33.7
+313, United States,=313,33.5
+314, Finland,=313,33.5
+315, Pakistan,=315,33.4
+316, Russia,=315,33.4
+317, Finland,=315,33.4
+318, Canada,318,33.3
+319, Russia,=319,33.2
+320, France,=319,33.2
+321, Spain,=319,33.2
+322, Canada,322,33
+323, China (Mainland),=323,32.8
+324, United States,=323,32.8
+325, South Africa,=323,32.8
+326, Australia,=326,32.7
+327, Denmark,=326,32.7
+328, United Kingdom,=328,32.6
+329, South Korea,=328,32.6
+330, Switzerland,=328,32.6
+331, France,=328,32.6
+332, South Korea,=332,32.5
+333, United States,=332,32.5
+334, Iran,334,32.4
+335, Italy,335,32.3
+336, Denmark,=336,32.2
+337, Türkiye,=336,32.2
+338, Peru,=336,32.2
+339, United Kingdom,=336,32.2
+340, China (Mainland),=340,32.1
+341, United States,=340,32.1
+342, Russia,342,32
+343, United Kingdom,343,31.9
+344, Portugal,344,31.6
+345, Indonesia,=345,31.5
+346, Canada,=345,31.5
+347, Greece,=347,31.4
+348, Colombia,=347,31.4
+349, Spain,=349,31.3
+350, Italy,=349,31.3
+351, Finland,=351,31.2
+352, Portugal,=351,31.2
+353, Canada,353,31.1
+354, Spain,354,31
+355, Kazakhstan,=355,30.9
+356, China (Mainland),=355,30.9
+357, Japan,=355,30.9
+358, Italy,=358,30.8
+359, Estonia,=358,30.8
+360, China (Mainland),=360,30.7
+361, Iran,=360,30.7
+362, New Zealand,=362,30.6
+363, Austria,=362,30.6
+364, United Arab Emirates,=364,30.3
+365, India,=364,30.3
+366, Italy,=364,30.3
+367, Pakistan,367,30.2
+368, Cyprus,368,30.1
+369, India,=369,30
+370, United States,=369,30
+371, Egypt,=371,29.9
+372, Netherlands,=371,29.9
+373, Brazil,=371,29.9
+374, United Kingdom,374,29.7
+375, Iran,=375,29.5
+376, United States,=375,29.5
+377, Germany,=375,29.5
+378, Australia,=375,29.5
+379, United States,379,29.4
+380, Australia,380,29.2
+381, Luxembourg,381,29.1
+382, Thailand,=382,29
+383, France,=382,29
+384, China (Mainland),=384,28.6
+385, Germany,=384,28.6
+386, United States,386,28.4
+387, France,=387,28.3
+388, Belarus,=387,28.3
+389, Canada,=387,28.3
+390, Taiwan,=387,28.3
+391, Brunei,=387,28.3
+392, France,=392,28.2
+393, China (Mainland),=392,28.2
+394, Israel,=392,28.2
+395, China (Mainland),=392,28.2
+396, Germany,=396,28.1
+397, Russia,=396,28.1
+398, United States,=396,28.1
+399, Russia,399,28
+400, United States,=400,27.9
+401, Czechia,=400,27.9
+402, Portugal,=400,27.9
+403, Spain,403,27.8
+404, Türkiye,=404,27.6
+405, United States,=404,27.6
+406, Philippines,=404,27.6
+407, New Zealand,=407,27.4
+408, India,=407,27.4
+409, United States,409,27.3
+410, Chile,=410,27.2
+411, United States,=410,27.2
+412, Australia,=410,27.2
+413, United Kingdom,=413,27.1
+414, United Kingdom,=413,27.1
+415, Australia,=415,27
+416, Russia,=415,27
+417, Egypt,=415,27
+418, Russia,418,26.9
+419, Brazil,=419,26.8
+420, United States,=419,26.8
+421, Austria,=421,26.7
+422, Russia,=421,26.7
+423, Australia,=421,26.7
+424, Belgium,=421,26.7
+425, France,=421,26.7
+426, Ireland,426,26.6
+427, India,427,26.5
+428, Spain,428,26.4
+429, Singapore,=429,26.3
+430, Italy,=429,26.3
+431, Türkiye,=431,26.2
+432, Australia,=431,26.2
+433, Taiwan,=431,26.2
+434, Taiwan,=431,26.2
+435, United Kingdom,=431,26.2
+436, Ireland,=436,26
+437, South Korea,=436,26
+438, Finland,=436,26
+439, China (Mainland),=436,26
+440, Switzerland,=436,26
+441, Germany,=440,25.9
+442, United Kingdom,=441,25.9
+443, United States,=441,25.9
+444, Canada,=441,25.9
+445, Greece,=444,25.8
+446, United States,=444,25.8
+447, United Kingdom,=446,25.7
+448, Austria,=446,25.7
+449, United States,=446,25.7
+450, Japan,=446,25.7
+451, Finland,=446,25.7
+452, Iran,451,25.6
+453, China (Mainland),=452,25.5
+454, France,=452,25.5
+455, Czechia,=454,25.2
+456, India,=454,25.2
+457, China (Mainland),=454,25.2
+458, Oman,=454,25.2
+459, Germany,=454,25.2
+460, United Kingdom,459,25.1
+461, Germany,460,25
+462, United States,=461,24.9
+463, Russia,=461,24.9
+464, Germany,=461,24.9
+465, Germany,464,24.8
+466, United States,=465,24.7
+467, Sweden,=465,24.7
+468, France,=465,24.7
+469, United Arab Emirates,=465,24.7
+470, Israel,=469,24.6
+471, United States,=469,24.6
+472, Italy,=469,24.6
+473, Japan,472,24.5
+474, China (Mainland),=473,24.4
+475, Russia,=473,24.4
+476, Lithuania,=473,24.4
+477, Japan,=476,24.3
+478, Spain,=476,24.3
+479, Germany,478,24.2
+480, Germany,479,24.1
+481, United States,480,24
+482, United Kingdom,=481,23.9
+483, Japan,=481,23.9
+484, Germany,=481,23.9
+485, Kazakhstan,=481,23.9
+486, Italy,=481,24
+487, Spain,485,23.8
+488, China (Mainland),=486,23.7
+489, Canada,=486,23.7
+490, Indonesia,=489,23.6
+491, Italy,=489,23.6
+492, China (Mainland),=491,23.5
+493, United States,=491,23.5
+494, United States,=491,23.5
+495, South Korea,=494,23.4
+496, China (Mainland),=494,23.4
+497, United States,=494,23.4
+498, Spain,=494,23.4
+499, South Korea,=498,23.2
+500, United Kingdom,=498,23.2
