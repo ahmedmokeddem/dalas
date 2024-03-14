@@ -1,0 +1,261 @@
+,Pays,code country,langue,trad
+0,Russia,RU,ru,образование OR школа OR обучение OR студенты OR учителя OR учебный план OR Университет
+1,Antarctica,AQ,,
+2,Canada,CA,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+3,China,CN,zh,
+4,United States,US,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+5,Brazil,BR,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+6,Australia,AU,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+7,India,IN,hi,शिक्षा OR विद्यालय OR सीखना OR छात्र OR शिक्षकों की OR पाठ्यक्रम OR विश्वविद्यालय
+8,Argentina,AR,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+9,Kazakhstan,KZ,ru,образование OR школа OR обучение OR студенты OR учителя OR учебный план OR Университет
+10,Algeria,DZ,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+11,Democratic Republic of the Congo,CG,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+12,Denmark,DK,da,uddannelse OR skole OR læring OR studerende OR lærere OR læseplan OR universitet
+13,Greenland,GL,kl,
+14,Saudi Arabia,SA,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+15,Mexico,MX,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+16,Indonesia,ID,id,pendidikan OR sekolah OR sedang belajar OR siswa OR guru OR kurikulum OR Universitas
+17,Sudan,SD,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+18,Libya,LY,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+19,Iran,IR,fa,تحصیلات OR مدرسه OR یادگیری OR دانش آموزان OR معلمان OR برنامه تحصیلی OR دانشگاه
+20,Mongolia,MN,mn,боловсрол OR сургууль OR сурах OR оюутнууд OR багш нар OR сургалтын хөтөлбөр OR их сургууль
+21,Peru,PE,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+22,Chad,TD,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+23,Niger,NG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+24,Angola,AO,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+25,Mali,ML,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+26,South Africa,ZA,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+27,Colombia,CO,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+28,Ethiopia,ET,am,ትምህርት OR ትምህርት ቤት OR መማር OR ተማሪዎች OR አስተማሪዎች OR ሥርዓተ ትምህርት OR ዩኒቨርሲቲ
+29,Bolivia,BO,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+30,Mauritania,MR,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+31,Egypt,EG,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+32,Tanzania,TZ,sw,elimu OR shule OR kujifunza OR wanafunzi OR walimu OR mtaala OR chuo kikuu
+33,Nigeria,NG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+34,Venezuela,VE,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+35,Pakistan,PK,ur,تعلیم OR اسکول OR سیکھنا OR طلباء OR اساتذہ OR نصاب OR جامع درس گاہ
+36,Namibia,NA,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+37,Mozambique,MZ,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+38,Türkiye,TR,tr,eğitim OR okul OR öğrenme OR öğrenciler OR öğretmenler OR Müfredat OR Üniversite
+39,Chile,CL,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+40,Zambia,ZM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+41,Myanmar,MM,my,ပညာရေး OR ကျောင်း OR သင်ယူမှု OR ကျောင်းသား၊ OR ဆရာမများ OR သင်ရိုးညွှန်းတမ်း OR တက္ကသိုလ်
+42,Afghanistan,AF,fa,تحصیلات OR مدرسه OR یادگیری OR دانش آموزان OR معلمان OR برنامه تحصیلی OR دانشگاه
+43,South Sudan,SS,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+44,France,FR,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+45,Somalia,SO,so,waxbarasho OR dugsiga OR barashada OR ardayda OR macalimiin OR manhajka OR jaamacad
+46,Central African Republic,CF,sg,
+47,Ukraine,UA,uk,освіти OR школа OR навчання OR студентів OR вчителі OR навчальний план OR університет
+48,Madagascar,MG,mg,FAMPIANARANA OR am-pianarana OR FIANARANA OR MPIANATRA OR mpampianatra OR fandaharam-pianarana OR Oniversite
+49,Botswana,BW,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+50,Kenya,KE,sw,elimu OR shule OR kujifunza OR wanafunzi OR walimu OR mtaala OR chuo kikuu
+51,France,FR,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+52,Yemen,YE,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+53,Thailand,TH,th,การศึกษา OR โรงเรียน OR การเรียนรู้ OR นักเรียน OR ครู OR หลักสูตร OR มหาวิทยาลัย
+54,Spain,ES,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+55,Turkmenistan,TM,tk,bilim OR mekdebi OR öwrenmek OR okuwçylar OR mugallymlar OR okuw meýilnamasy OR uniwersiteti
+56,Cameroon,CM,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+57,Papua New Guinea,PG,tpi,
+58,Uzbekistan,UZ,uz,ta'lim OR maktab OR o'rganish OR talabalar OR o'qituvchilar OR o'quv dasturi OR universitet
+59,Sweden,SE,sv,utbildning OR skola OR inlärning OR studenter OR lärare OR läroplan OR universitet
+60,Morocco,MA,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+61,Iraq,IQ,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+62,Paraguay,PY,gn,tekombo'e OR mitãrusumbo'ehao OR ñembokatupyrykuévo OR temimbo’ekuéra OR mbo’ehára kuéra OR mbo’esyry rehegua OR mbo'ehaovusu
+63,Zimbabwe,ZW,sn,dzidzo OR chikoro OR kudzidza OR vadzidzi OR vadzidzisi OR curriculum OR yunivhesiti
+64,Norway,NO,nb,
+65,Japan,JP,ja,教育 OR 学校 OR 学ぶ OR 学生 OR 教師 OR カリキュラム OR 大学
+66,Germany,DE,de,Ausbildung OR Schule OR Lernen OR Studenten OR Lehrer OR Lehrplan OR Universität
+67,Republic of the Congo,CG,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+68,Finland,FI,fi,koulutus OR koulu OR oppimista OR opiskelijat OR opettajat OR opetussuunnitelma OR yliopisto
+69,Vietnam,VN,vi,giáo dục OR trường học OR học hỏi OR sinh viên OR giáo viên OR chương trình giảng dạy OR trường đại học
+70,Malaysia,MY,ms,pendidikan OR sekolah OR pembelajaran OR pelajar OR guru-guru OR kurikulum OR universiti
+71,Norway,NO,nb,
+72,Ivory Coast,TZ,sw,elimu OR shule OR kujifunza OR wanafunzi OR walimu OR mtaala OR chuo kikuu
+73,Poland,PL,pl,Edukacja OR szkoła OR uczenie się OR studenci OR nauczyciele OR program OR Uniwersytet
+74,Oman,OM,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+75,Italy,IT,it,formazione scolastica OR scuola OR apprendimento OR studenti OR insegnanti OR curriculum OR Università
+76,Philippines,PH,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+77,Ecuador,EC,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+78,Burkina Faso,BF,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+79,New Zealand,NZ,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+80,Gabon,GA,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+81,Western Sahara,EH,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+82,Guinea,GN,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+83,United Kingdom,GB,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+84,Uganda,UG,sw,elimu OR shule OR kujifunza OR wanafunzi OR walimu OR mtaala OR chuo kikuu
+85,Ghana,GH,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+86,Romania,RO,ro,educaţie OR şcoală OR învăţare OR elevi OR profesori OR curriculum OR universitate
+87,Laos,LA,lo,ການສຶກສາ OR ໂຮງຮຽນ OR ການຮຽນຮູ້ OR ນັກສຶກສາ OR ຄູສອນ OR ຫຼັກສູດ OR ມະຫາວິທະຍາໄລ
+88,Guyana,GY,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+89,Belarus,BY,be,адукацыі OR школа OR навучання OR студэнтаў OR выкладчыкаў OR вучэбная праграма OR ВНУ
+90,Kyrgyzstan,KG,ky,билим берүү OR мектеп OR үйрөнүү OR студенттер OR мугалимдер OR окуу программасы OR университет
+91,Senegal,SN,wo,
+92,Syria,SY,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+93,Cambodia,KH,km,ការអប់រំ OR សាលា OR ការរៀន OR សិស្ស OR គ្រូបង្រៀន OR កម្មវិធីសិក្សា OR សាកលវិទ្យាល័យ
+94,Somali,ET,am,ትምህርት OR ትምህርት ቤት OR መማር OR ተማሪዎች OR አስተማሪዎች OR ሥርዓተ ትምህርት OR ዩኒቨርሲቲ
+95,Uruguay,UY,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+96,Suriname,SR,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+97,Tunisia,TN,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+98,Bangladesh,BD,bn,শিক্ষা OR বিদ্যালয় OR শেখার OR ছাত্রদের OR শিক্ষক OR পাঠ্যক্রম OR বিশ্ববিদ্যালয়
+99,Nepal,NP,ne,शिक्षा OR विद्यालय OR सिक्ने OR विद्यार्थीहरू OR शिक्षकहरू OR पाठ्यक्रम OR विश्वविद्यालय
+100,Tajikistan,TJ,tg,маориф OR мактаб OR омӯхтан OR студентон OR муаллимон OR барномаи таълимӣ OR университет
+101,Greece,GR,el,εκπαίδευση OR σχολείο OR μάθηση OR Φοιτητές OR δασκάλους OR διδακτέα ύλη OR πανεπιστήμιο
+102,Nicaragua,NI,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+103,North Korea,KP,ko,교육 OR 학교 OR 학습 OR 재학생 OR 교사 OR 과정 OR 대학교
+104,Malawi,MW,ny,maphunziro OR sukulu OR kuphunzira OR ophunzira OR aphunzitsi OR maphunziro OR yunivesite
+105,Eritrea,ER,ti,ትምህርቲ OR ቤት ትምህርቲ OR ምምሃር OR ተምሃሮ OR መምህራን OR ስርዓተ ትምህርቲ OR ዩኒቨርሲቲ
+106,Benin,BJ,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+107,Honduras,HN,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+108,Liberia,LR,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+109,Bulgaria,BG,bg,образование OR училище OR изучаване на OR студенти OR учители OR учебна програма OR университет
+110,Cuba,CU,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+111,Guatemala,GT,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+112,Iceland,IS,is,menntun OR skóla OR læra OR nemendur OR kennarar OR námskrá OR háskóla
+113,South Korea,KR,ko,교육 OR 학교 OR 학습 OR 재학생 OR 교사 OR 과정 OR 대학교
+114,Hungary,HU,hu,oktatás OR iskola OR tanulás OR hallgatók OR tanárok OR tanterv OR egyetemi
+115,Portugal,PT,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+116,Jordan,JO,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+117,Serbia,RS,sr_Latn,
+118,Azerbaijan,AZ,az,təhsil OR məktəb OR öyrənmək OR tələbələr OR müəllimlər OR kurikulum OR universitet
+119,Austria,AT,de,Ausbildung OR Schule OR Lernen OR Studenten OR Lehrer OR Lehrplan OR Universität
+120,United Arab Emirates,AE,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+121,Czech Republic,CZ,cs,vzdělání OR škola OR učení se OR studentů OR učitelé OR osnovy OR univerzita
+122,Panama,PA,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+123,Sierra Leone,SL,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+124,Republic of Ireland,IE,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+125,Georgia (country),GE,ka,განათლება OR სკოლა OR სწავლა OR სტუდენტები OR მასწავლებლები OR სასწავლო გეგმა OR უნივერსიტეტი
+126,Sri Lanka,LK,si,අධ්යාපන OR පාසලේ OR ඉගෙන ගන්නවා OR සිසු OR ගුරුවරු OR විෂය මාලාව OR විශ්ව විද්යාලය
+127,Lithuania,LT,lt,išsilavinimas OR mokykla OR mokymasis OR studentai OR mokytojai OR mokymo planas OR universitetas
+128,Latvia,LV,lv,izglītība OR skola OR mācīšanās OR studenti OR skolotājiem OR mācību programma OR universitāte
+129,Svalbard,SJ,nb,
+130,Togo,TG,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+131,Croatia,HR,hr,obrazovanje OR škola OR učenje OR učenicima OR učitelji OR nastavni plan i program OR sveučilište
+132,Bosnia and Herzegovina,BA,bs_Cyrl,
+133,Costa Rica,CR,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+134,Slovakia,SK,sk,vzdelanie OR školy OR učenie OR študentov OR učitelia OR učebných osnov OR univerzite
+135,Dominican Republic,DO,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+136,Estonia,EE,et,haridust OR kool OR õppimine OR õpilased OR õpetajad OR õppekava OR ülikool
+137,Denmark,DK,da,uddannelse OR skole OR læring OR studerende OR lærere OR læseplan OR universitet
+138,Netherlands,NL,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+139,Switzerland,CH,de,Ausbildung OR Schule OR Lernen OR Studenten OR Lehrer OR Lehrplan OR Universität
+140,Bhutan,BT,dz,
+141,Taiwan,TW,zh_Hant,
+142,Guinea-Bissau,GW,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+143,Moldova,MD,ro,educaţie OR şcoală OR învăţare OR elevi OR profesori OR curriculum OR universitate
+144,Belgium,BE,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+145,Lesotho,LS,st,thuto OR sekolo OR ho ithuta OR baithuti OR matichere OR kharikhulamo OR univesithi
+146,Armenia,AM,hy,կրթություն OR դպրոց OR սովորում OR ուսանողները OR ուսուցիչները OR ուսումնական պլան OR համալսարան
+147,Solomon Islands,SB,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+148,Albania,AL,sq,arsimimi OR shkolla OR të mësuarit OR nxënësit OR mësuesit OR kurrikula OR universiteti
+149,Equatorial Guinea,GQ,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+150,Burundi,BI,rn,
+151,Haiti,HT,ht,edikasyon OR lekòl OR aprantisaj OR elèv yo OR pwofesè yo OR kourikoulòm OR inivèsite
+152,Rwanda,RW,rw,uburezi OR ishuri OR kwiga OR abanyeshuri OR abarimu OR integanyanyigisho OR kaminuza
+153,North Macedonia,MK,mk,образованието OR училиште OR учењето OR учениците OR наставниците OR наставна програма OR универзитет
+154,Djibouti,DJ,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+155,Belize,BZ,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+156,Israel,IL,he,
+157,El Salvador,SV,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+158,Slovenia,SI,sl,izobraževanje OR šola OR učenje OR študenti OR učitelji OR učni načrt OR univerza
+159,New Caledonia,NC,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+160,Fiji,FJ,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+161,Kuwait,KW,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+162,Eswatini,SZ,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+163,East Timor,TL,tet,
+164,The Bahamas,BS,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+165,Montenegro,ME,sr_Latn,
+166,Vanuatu,VU,bi,
+167,Falkland Islands,FK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+168,Qatar,QA,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+169,The Gambia,GM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+170,Jamaica,JM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+171,Kosovo,RS,sr_Latn,
+172,Lebanon,LB,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+173,Cyprus,CY,el,εκπαίδευση OR σχολείο OR μάθηση OR Φοιτητές OR δασκάλους OR διδακτέα ύλη OR πανεπιστήμιο
+174,Puerto Rico,PR,es,educación OR escuela OR aprendiendo OR estudiantes OR profesores OR plan de estudios OR universidad
+175,Abkhazia,GE,ka,განათლება OR სკოლა OR სწავლა OR სტუდენტები OR მასწავლებლები OR სასწავლო გეგმა OR უნივერსიტეტი
+176,French Southern and Antarctic Lands,NL,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+177,State of Palestine,PS,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+178,Brunei,BN,ms,pendidikan OR sekolah OR pembelajaran OR pelajar OR guru-guru OR kurikulum OR universiti
+179,Trinidad and Tobago,TT,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+180,French Polynesia,PF,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+182,Cape Verde,CV,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+183,South Georgia and the South Sandwich Islands,GS,,
+184,South Ossetia,CM,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+185,Northern Cyprus,CY,el,εκπαίδευση OR σχολείο OR μάθηση OR Φοιτητές OR δασκάλους OR διδακτέα ύλη OR πανεπιστήμιο
+186,Samoa,WS,sm,aoaoga OR aoga OR aoaoina OR tamaiti aoga OR faiaoga OR mataupu aoaoina OR iunivesite
+187,Luxembourg,LU,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+188,Bir Tawil,MT,mt,edukazzjoni OR skola OR tagħlim OR studenti OR għalliema OR kurrikulu OR università
+189,Mauritius,MU,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+190,Comoros,KM,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+191,Åland,FI,fi,koulutus OR koulu OR oppimista OR opiskelijat OR opettajat OR opetussuunnitelma OR yliopisto
+192,Faroe Islands,FO,fo,
+193,Hong Kong,HK,zh_Hant,
+194,São Tomé and Príncipe,ST,pt,Educação OR escola OR aprendizado OR estudantes OR professores OR currículo OR universidade
+195,Turks and Caicos Islands,TC,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+196,Kiribati,KI,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+197,Bahrain,BH,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+198,Dominica,DM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+199,Tonga,TO,to,
+200,Singapore,SG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+201,Federated States of Micronesia,FM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+202,Saint Lucia,LC,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+203,Isle of Man,IM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+204,Guam,GU,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+205,Andorra,AD,ca,educació OR escola OR aprenentatge OR estudiants OR professors OR currículum OR universitat
+206,Palau,PW,pau,
+207,Northern Mariana Islands,MP,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+208,Seychelles,SC,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+209,Curaçao,NL,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+210,Antigua and Barbuda,AG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+211,Barbados,BB,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+212,Heard Island and McDonald Islands,HM,,
+213,"Saint Helena, Ascension and Tristan da Cunha",SH,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+214,Saint Vincent and the Grenadines,VC,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+215,Jan Mayen,NO,nb,
+216,United States Virgin Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+217,Grenada,GD,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+218,Malta,MT,mt,edukazzjoni OR skola OR tagħlim OR studenti OR għalliema OR kurrikulu OR università
+219,Maldives,MV,dv,ތަޢުލީމް OR ސްކޫލް OR އުގެނުން OR ދަރިވަރުންނެވެ OR ޓީޗަރުންނެވެ OR މަންހަޖެވެ OR ޔުނިވަރސިޓީ
+220,Bonaire,BQ,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+221,Cayman Islands,KY,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+222,Saint Kitts and Nevis,KN,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+223,Niue,NU,niu,
+225,Saint Pierre and Miquelon,PM,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+226,Cook Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+227,American Samoa,AS,sm,aoaoga OR aoga OR aoaoina OR tamaiti aoga OR faiaoga OR mataupu aoaoina OR iunivesite
+228,Marshall Islands,MH,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+229,Aruba,AW,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+230,Easter Island,KM,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+231,Liechtenstein,LI,de,Ausbildung OR Schule OR Lernen OR Studenten OR Lehrer OR Lehrplan OR Universität
+232,British Virgin Islands,VG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+233,Wallis and Futuna,WF,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+234,Christmas Island,CX,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+235,Jersey,JE,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+236,Montserrat,MS,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+237,Anguilla,AI,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+238,Bailiwick of Guernsey,GG,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+239,San Marino,SM,it,formazione scolastica OR scuola OR apprendimento OR studenti OR insegnanti OR curriculum OR Università
+240,British Indian Ocean Territory,IO,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+241,Bermuda,BM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+242,Saint Martin (France),KN,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+243,Bouvet Island,BV,,
+244,Pitcairn Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+245,Norfolk Island,NF,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+246,Sint Maarten,NL,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+247,United States Minor Outlying Islands,UM,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+249,Tuvalu,TV,tvl,
+250,Saint Barthélemy,BL,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+251,Nauru,NR,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+252,Sint Eustatius,BQ,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+253,Cocos (Keeling) Islands,CC,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+254,Saba (island),BQ,nl,onderwijs OR school OR aan het leren OR studenten OR leraren OR leerplan OR Universiteit
+255,Tokelau,TK,tkl,
+256,Gibraltar,GI,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+257,Clipperton Island,KM,ar,تعليم OR مدرسة OR تعلُّم OR طلاب OR معلمون OR مقرر OR جامعة
+258,Ashmore and Cartier Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+259,Coral Sea Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+260,Spratly Islands,CK,en,education OR school OR learning OR students OR teachers OR curriculum OR university
+261,Monaco,MC,fr,éducation OR école OR apprentissage OR étudiants OR enseignants OR programme d'études OR université
+262,Vatican City,VA,it,formazione scolastica OR scuola OR apprendimento OR studenti OR insegnanti OR curriculum OR Università

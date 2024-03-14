@@ -1,6 +1,6 @@
 Continent,Pays
 north-america,Canada
-north-america,US
+United States,United States
 north-america,Mexico
 north-america,Guatemala
 north-america,Belize
@@ -15,7 +15,7 @@ north-america,Haiti
 north-america,Cuba
 north-america,Jamaica
 north-america,Dominican Republic
-north-america,Dominica
+Dominican Republic,Dominican Republic
 north-america,St.Kitts and Nevis
 north-america,St. Lucia
 north-america,St. Vincent and The Grenadines
@@ -71,7 +71,7 @@ europe,Bosnia and Herzegovina
 europe,Serbia
 europe,Montenegro
 europe,Albania
-europe,Macedonia
+North Macedonia,North Macedonia
 europe,Greece
 europe,Bulgaria
 europe,Romania
@@ -86,13 +86,13 @@ africa,Mauritania
 africa,Mali
 africa,Senegal
 africa,Gambia
-africa,Guinea Bissau
+Guinea,Guinea
 africa,Guinea
 africa,Sierra Leone
 africa,Liberia
 africa,Ivory Coast
 africa,Ghana
-africa,Burkina
+Burkina Faso,Burkina Faso
 africa,Togo
 africa,Benin
 africa,Niger
@@ -100,13 +100,13 @@ africa,Nigeria
 africa,Chad
 africa,Cameroon
 africa,Central African Republic
-africa,(North) Sudan
-africa,South Sudan
+Sudan,Sudan
+Sudan,Sudan
 africa,Eritrea
 africa,Djibouti
 africa,Ethiopia
 africa,Somalia
-africa,Equatorial Guinea
+Guinea,Guinea
 africa,Gabon
 africa,Republic of Congo
 africa,(Democratic Republic of) Congo
@@ -144,9 +144,9 @@ asia,Israel
 asia,Lebanon
 asia,Syria
 asia,Cyprus
-asia,Turkey*
-asia,Georgia*
-asia,Armenia*
+Turkey,Turkey
+Georgia,Georgia
+Armenia,Armenia
 asia,Azerbaijan
 asia,Iran
 asia,Afghanistan
@@ -180,7 +180,7 @@ asia,North Korea
 asia,Japan
 oceania,Australia
 oceania,New Zealand
-oceania,Papua New Guinea
+Guinea,Guinea
 oceania,Palau
 oceania,Micronesia
 oceania,Marshall Islands
@@ -195,6 +195,6 @@ oceania,Samoa
 europe,Kosova
 asia,Palestine
 africa,Western Sahara
-europe,Turkish Cyprus
+Cyprus,Cyprus
 asia,Taiwan
 europe,Vatican City
