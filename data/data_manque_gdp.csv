@@ -1,0 +1,198 @@
+country,Literacy rate 2021_y,Global rank_y,continent,Superficie,nb_diplomes,nb_habitants,education_spending_2021
+India,,,asia,3287263.0,,1417173173.0,4.64
+China,,,asia,9596960.0,,1412175000.0,3.3
+United States,,,north-america,9369417.0,2715337.0,333287557.0,
+Indonesia,,,asia,1904569.0,,275501339.0,3.05
+Pakistan,,,asia,882363.0,,235824862.0,1.69
+Nigeria,,,africa,923768.0,,218541212.0,
+Brazil,,,south-america,8510346.0,,215313498.0,
+Bangladesh,,,asia,148460.0,,171186372.0,1.83
+Russia,99.93,3.0,europe,17098246.0,,144236933.0,
+Ethiopia,,,africa,1104300.0,,123379924.0,4.07
+Mexico,,,north-america,1964375.0,498441.0,127504125.0,
+Japan,,,asia,377915.0,678244.0,125124989.0,3.32
+Philippines,,,asia,300000.0,,115559009.0,3.88
+Egypt,,,africa,1001450.0,,110990103.0,
+DR Congo,,,africa,2344858.0,,99010212.0,2.66
+Vietnam,,,asia,331340.0,,98186856.0,2.95
+Iran,,,asia,1648195.0,,88550570.0,
+Turkey,,,asia,783562.0,374943.0,84979913.0,2.85
+Germany,,,europe,357581.0,489703.0,83797985.0,4.53
+Thailand,94.1,27.0,asia,513120.0,,71697030.0,2.99
+Tanzania,,,africa,947303.0,,65497748.0,3.12
+United Kingdom,,,europe,243610.0,652174.0,66971395.0,5.33
+France,,,europe,643801.0,411482.0,67971311.0,5.25
+South Africa,90.0,32.0,africa,1219090.0,,59893885.0,6.56
+Italy,,,europe,302068.0,372383.0,58940425.0,4.13
+Kenya,,,africa,580367.0,,54027487.0,4.59
+Myanmar,,,asia,676578.0,,54179306.0,
+Colombia,,,south-america,1138910.0,,51874024.0,
+South Korea,,,asia,100432.0,420673.0,51628117.0,
+Uganda,,,africa,241550.0,,47249585.0,2.64
+Sudan,,,africa,1861484.0,,46874204.0,
+Spain,,,europe,505370.0,284626.0,47778340.0,4.59
+Iraq,,,asia,438317.0,,44496122.0,
+Algeria,,,africa,2381741.0,,44903225.0,6.3
+Argentina,,,south-america,2780400.0,,46234830.0,4.65
+Afghanistan,37.27,39.0,asia,652864.0,,41128771.0,
+Poland,99.8,7.0,europe,312685.0,634977.0,36821749.0,4.94
+Canada,,,north-america,9984670.0,232349.0,38929902.0,4.59
+Morocco,,,africa,446550.0,,37457971.0,5.6
+Ukraine,100.0,1.0,europe,603550.0,,38000000.0,5.74
+Angola,,,africa,1246700.0,,35588987.0,2.3
+Saudi Arabia,,,asia,2149690.0,,36408820.0,
+Uzbekistan,100.0,2.0,asia,447400.0,,35648100.0,5.37
+Yemen,,,asia,527968.0,,33696614.0,
+Mozambique,,,africa,799380.0,,32969518.0,7.03
+Ghana,,,africa,238537.0,,33475870.0,3.42
+Peru,,,south-america,1285216.0,,34049588.0,3.97
+Malaysia,,,asia,329847.0,,33938221.0,4.27
+Nepal,71.15,36.0,asia,147181.0,,30547580.0,3.96
+Madagascar,,,africa,587041.0,,29611714.0,3.2
+Ivory Coast,,,africa,322462.0,,28160542.0,3.37
+Venezuela,,,south-america,912050.0,,28301696.0,
+Cameroon,,,africa,475650.0,,27914536.0,2.83
+Niger,,,africa,1267000.0,,26207977.0,3.82
+Australia,,,oceania,7741220.0,271050.0,26005540.0,5.56
+North Korea,,,asia,120538.0,,,
+Syria,,,asia,185180.0,,22125249.0,
+Mali,,,africa,1240192.0,,22593590.0,4.36
+Taiwan,,,asia,35980.0,,,
+Burkina Faso,,,africa,274200.0,,22673762.0,5.22
+Sri Lanka,92.43,28.0,asia,65610.0,,22181000.0,1.51
+Malawi,,,africa,118484.0,,20405317.0,
+Zambia,,,africa,752612.0,,20017675.0,3.11
+Kazakhstan,,,asia,2724910.0,,19621972.0,4.39
+Chile,,,south-america,756102.0,,19603733.0,
+Romania,98.9,15.0,europe,238398.0,,19047009.0,3.25
+Chad,,,africa,1284000.0,,17723315.0,2.89
+Somalia,,,africa,637657.0,,17597511.0,
+Ecuador,94.48,26.0,south-america,283561.0,,18001000.0,3.69
+Guatemala,,,north-america,108889.0,,17357886.0,3.11
+Senegal,,,africa,196712.0,,17316449.0,5.59
+Netherlands,,,europe,41865.0,150893.0,17700982.0,5.14
+Cambodia,,,asia,181035.0,,16767842.0,1.67
+Zimbabwe,,,africa,390757.0,,16320537.0,
+Guinea,45.33,38.0,africa,28051.0,,13859341.0,2.04
+Rwanda,75.9,35.0,africa,26338.0,,13776698.0,5.59
+Benin,,,africa,114763.0,,13352864.0,3.19
+Burundi,,,africa,27834.0,,12889576.0,4.87
+Bolivia,,,south-america,1098581.0,,12224110.0,
+Tunisia,,,africa,163610.0,,12356117.0,
+Haiti,,,north-america,27750.0,,11584996.0,1.84
+Belgium,,,europe,30528.0,63414.0,11685814.0,6.23
+Dominican Republic,,,north-america,48670.0,,11228821.0,3.75
+Jordan,98.42,17.0,asia,89318.0,,11285869.0,3.22
+South Sudan,,,africa,644329.0,,10913164.0,
+Cuba,,,north-america,109884.0,,11212191.0,
+Honduras,,,north-america,112492.0,,10432860.0,5.81
+Sweden,,,europe,447425.0,60409.0,10486941.0,6.68
+Papua New Guinea,,,oceania,462840.0,,10142619.0,
+Czech Republic,,,europe,78871.0,,10672118.0,5.05
+Azerbaijan,,,asia,86600.0,,10141756.0,3.7
+Tajikistan,,,asia,144100.0,,9952787.0,5.54
+Greece,,,europe,131957.0,46149.0,10426919.0,4.06
+Portugal,96.78,23.0,europe,92225.0,94209.0,10409704.0,4.71
+Hungary,99.1,12.0,europe,93025.0,58754.0,9643048.0,5.0
+United Arab Emirates,98.13,18.0,asia,78157.0,,9441129.0,3.9
+Belarus,,,europe,207600.0,,9228071.0,4.61
+Israel,,,asia,21937.0,,9557500.0,7.42
+Togo,,,africa,56785.0,,8848699.0,4.23
+Sierra Leone,,,africa,72300.0,,8605718.0,9.44
+Austria,,,europe,83878.0,53945.0,9041851.0,4.99
+Switzerland,,,europe,41291.0,52468.0,8775760.0,5.04
+Laos,,,asia,236800.0,,7529475.0,1.86
+Hong Kong,,,asia,1114.0,,7346100.0,4.0
+Nicaragua,,,north-america,130373.0,,6948392.0,4.09
+Serbia,,,europe,88499.0,,6664449.0,3.3
+Libya,,,africa,1759540.0,,6812341.0,
+Paraguay,,,south-america,406752.0,,6780744.0,3.41
+Kyrgyzstan,,,asia,199949.0,,,6.53
+Bulgaria,98.42,16.0,europe,110879.0,,6465097.0,4.49
+Turkmenistan,,,asia,488100.0,,6430770.0,
+El Salvador,,,north-america,21041.0,,6336392.0,3.53
+Republic of the Congo,80.61,34.0,africa,342000.0,,5970424.0,3.67
+Singapore,,,asia,733.0,,5637022.0,2.83
+Denmark,,,europe,42947.0,50332.0,5903037.0,6.04
+Central African Republic,,,africa,622984.0,,5579144.0,1.87
+Slovakia,,,europe,49035.0,71551.0,5431752.0,4.4
+Finland,,,europe,338145.0,53271.0,5556106.0,5.69
+Liberia,,,africa,111369.0,,5302681.0,2.53
+Norway,,,europe,386224.0,40107.0,5457127.0,5.04
+Palestine,,,asia,,,,5.43
+New Zealand,,,oceania,268838.0,50116.0,5124100.0,5.54
+Costa Rica,98.04,19.0,north-america,51100.0,,5180829.0,6.28
+Lebanon,,,asia,10452.0,,5489739.0,
+Ireland,,,europe,,45015.0,5127170.0,2.98
+Mauritania,66.96,37.0,africa,1030700.0,,4736139.0,1.75
+Oman,,,asia,309500.0,,4576298.0,
+Panama,,,north-america,75320.0,,4408581.0,3.27
+Kuwait,,,asia,17818.0,,4268873.0,
+Croatia,99.45,9.0,europe,56594.0,,3855600.0,5.2
+Eritrea,,,africa,117600.0,,3684032.0,
+Georgia,,,asia,,,3712502.0,3.64
+Mongolia,,,asia,1564116.0,,3398366.0,3.34
+Uruguay,,,south-america,176215.0,,3422794.0,4.41
+Moldova,99.6,8.0,europe,33847.0,,2538894.0,5.82
+Puerto Rico,92.4,29.0,north-america,9104.0,,3221789.0,
+Bosnia and Herzegovina,,,europe,51209.0,,3233526.0,
+Gambia,,,africa,,,2705992.0,2.94
+Albania,,,europe,28748.0,,2777689.0,3.09
+Jamaica,,,north-america,10991.0,,2827377.0,5.63
+Armenia,,,asia,29743.0,,2780469.0,2.77
+Qatar,,,asia,11586.0,,2695122.0,
+Botswana,,,africa,582000.0,,2630296.0,
+Lithuania,99.83,6.0,europe,65286.0,,2831639.0,4.84
+Namibia,92.25,30.0,africa,824292.0,,2567012.0,10.03
+Gabon,,,africa,267668.0,,2388992.0,2.7
+Lesotho,,,africa,30355.0,,2305825.0,7.51
+Slovenia,,,europe,20273.0,,2111986.0,5.67
+North Macedonia,,,europe,25713.0,,2057679.0,
+Latvia,99.89,4.0,europe,64594.0,,1879383.0,5.7
+Bahrain,,,asia,778.0,,1472233.0,2.22
+Estonia,99.87,5.0,europe,45339.0,,1348840.0,5.91
+Mauritius,92.15,31.0,africa,2040.0,,1262523.0,4.67
+Cyprus,99.36,11.0,asia,9251.0,,1251488.0,5.62
+Eswatini,,,,17363.0,,1201670.0,5.29
+Djibouti,,,africa,23200.0,,1120849.0,
+Fiji,,,oceania,18272.0,,929766.0,5.97
+Comoros,,,africa,1861.0,,836774.0,2.27
+Guyana,,,south-america,214969.0,,808726.0,
+Bhutan,,,asia,38394.0,,782455.0,6.97
+Solomon Islands,,,oceania,28896.0,,724273.0,
+Macau,,,,33.0,,695168.0,5.25
+Luxembourg,,,europe,2586.0,854.0,653103.0,4.64
+Suriname,95.0,24.0,south-america,163820.0,,618040.0,3.81
+Montenegro,98.98,14.0,europe,13812.0,,617213.0,
+Cape Verde,,,africa,4033.0,,593149.0,6.04
+Malta,94.94,25.0,europe,315.0,,531113.0,5.63
+Maldives,97.86,20.0,asia,300.0,,523787.0,4.48
+Brunei,97.59,21.0,asia,5765.0,,449002.0,
+Belize,,,north-america,22965.0,,405272.0,5.86
+Bahamas,,,north-america,,,409984.0,3.57
+Iceland,,,europe,103000.0,4005.0,382003.0,7.73
+Vanuatu,89.1,33.0,oceania,12189.0,,326740.0,
+New Caledonia,,,,18575.0,,269220.0,
+Barbados,,,north-america,431.0,,281635.0,4.98
+Sao Tome and Principe,,,,,,227380.0,5.52
+Samoa,99.1,13.0,oceania,2842.0,,222382.0,
+Saint Lucia,,,,616.0,,179857.0,
+Kiribati,,,oceania,811.0,,131232.0,15.59
+Grenada,,,north-america,345.0,,125438.0,4.09
+Micronesia,,,oceania,,,114164.0,
+Tonga,99.4,10.0,oceania,747.0,,106858.0,4.93
+Seychelles,,,africa,457.0,,119878.0,5.62
+Saint Vincent and the Grenadines,,,,389.0,,103948.0,
+Antigua and Barbuda,,,,442.0,,93763.0,3.88
+Andorra,,,europe,468.0,,79824.0,2.58
+Dominica,,,north-america,750.0,,72737.0,5.47
+Cayman Islands,,,,264.0,,68706.0,
+Bermuda,,,north-america,54.0,,63532.0,1.88
+Greenland,,,,2166086.0,,56661.0,
+Northern Mariana Islands,,,,457.0,,49551.0,
+Saint Kitts and Nevis,,,,261.0,,47657.0,
+Turks and Caicos Islands,,,,948.0,,45703.0,
+Marshall Islands,,,oceania,181.0,,41569.0,
+Liechtenstein,,,europe,160.0,,39327.0,
+British Virgin Islands,,,,151.0,,31305.0,
+Cook Islands,,,,236.0,,,
