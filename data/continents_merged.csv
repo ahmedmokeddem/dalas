@@ -1,198 +1,200 @@
-country,continent
-India,asia
-China,asia
-United States,north-america
-Indonesia,asia
-Pakistan,asia
-Nigeria,africa
-Brazil,south-america
-Bangladesh,asia
-Russia,europe
-Ethiopia,africa
-Mexico,north-america
-Japan,asia
-Philippines,asia
-Egypt,africa
-DR Congo,africa
-Vietnam,asia
-Iran,asia
-Turkey,asia
-Germany,europe
-Thailand,asia
-Tanzania,africa
-United Kingdom,europe
-France,europe
-South Africa,africa
-Italy,europe
-Kenya,africa
-Myanmar,asia
-Colombia,south-america
-South Korea,asia
-Uganda,africa
-Sudan,africa
-Spain,europe
-Iraq,asia
-Algeria,africa
-Argentina,south-america
-Afghanistan,asia
-Poland,europe
-Canada,north-america
-Morocco,africa
-Ukraine,europe
-Angola,africa
-Saudi Arabia,asia
-Uzbekistan,asia
-Yemen,asia
-Mozambique,africa
-Ghana,africa
-Peru,south-america
-Malaysia,asia
-Nepal,asia
-Madagascar,africa
-Ivory Coast,africa
-Venezuela,south-america
-Cameroon,africa
-Niger,africa
-Australia,oceania
-North Korea,asia
-Syria,asia
-Mali,africa
-Taiwan,asia
-Burkina Faso,africa
-Sri Lanka,asia
-Malawi,africa
-Zambia,africa
-Kazakhstan,asia
-Chile,south-america
-Romania,europe
-Chad,africa
-Somalia,africa
-Ecuador,south-america
-Guatemala,north-america
-Senegal,africa
-Netherlands,europe
-Cambodia,asia
-Zimbabwe,africa
-Guinea,africa
-Rwanda,africa
-Benin,africa
-Burundi,africa
-Bolivia,south-america
-Tunisia,africa
-Haiti,north-america
-Belgium,europe
-Dominican Republic,north-america
-Jordan,asia
-South Sudan,africa
-Cuba,north-america
-Honduras,north-america
-Sweden,europe
-Papua New Guinea,oceania
-Czech Republic,europe
-Azerbaijan,asia
-Tajikistan,asia
-Greece,europe
-Portugal,europe
-Hungary,europe
-United Arab Emirates,asia
-Belarus,europe
-Israel,asia
-Togo,africa
-Sierra Leone,africa
-Austria,europe
-Switzerland,europe
-Laos,asia
-Hong Kong,asia
-Nicaragua,north-america
-Serbia,europe
-Libya,africa
-Paraguay,south-america
-Kyrgyzstan,asia
-Bulgaria,europe
-Turkmenistan,asia
-El Salvador,north-america
-Republic of the Congo,africa
-Singapore,asia
-Denmark,europe
-Central African Republic,africa
-Slovakia,europe
-Finland,europe
-Liberia,africa
-Norway,europe
-Palestine,asia
-New Zealand,oceania
-Costa Rica,north-america
-Lebanon,asia
-Ireland,europe
-Mauritania,africa
-Oman,asia
-Panama,north-america
-Kuwait,asia
-Croatia,europe
-Eritrea,africa
-Georgia,asia
-Mongolia,asia
-Uruguay,south-america
-Moldova,europe
-Puerto Rico,north-america
-Bosnia and Herzegovina,europe
-Gambia,africa
-Albania,europe
-Jamaica,north-america
-Armenia,asia
-Qatar,asia
-Botswana,africa
-Lithuania,europe
-Namibia,africa
-Gabon,africa
-Lesotho,africa
-Slovenia,europe
-North Macedonia,europe
-Latvia,europe
-Bahrain,asia
-Estonia,europe
-Mauritius,africa
-Cyprus,asia
-Eswatini,None
-Djibouti,africa
-Fiji,oceania
-Comoros,africa
-Guyana,south-america
-Bhutan,asia
-Solomon Islands,oceania
-Macau,None
-Luxembourg,europe
-Suriname,south-america
-Montenegro,europe
-Cape Verde,africa
-Malta,europe
-Maldives,asia
-Brunei,asia
-Belize,north-america
-Bahamas,north-america
-Iceland,europe
-Vanuatu,oceania
-New Caledonia,None
-Barbados,north-america
-Sao Tome and Principe,None
-Samoa,oceania
-Saint Lucia,None
-Kiribati,oceania
-Grenada,north-america
-Micronesia,oceania
-Tonga,oceania
-Seychelles,africa
-Saint Vincent and the Grenadines,None
-Antigua and Barbuda,None
-Andorra,europe
-Dominica,north-america
-Cayman Islands,None
-Bermuda,north-america
-Greenland,None
-Northern Mariana Islands,None
-Saint Kitts and Nevis,None
-Turks and Caicos Islands,None
-Marshall Islands,oceania
-Liechtenstein,europe
-British Virgin Islands,None
-Cook Islands,None
+Continent,Pays
+north-america,Canada
+United States,United States
+north-america,Mexico
+north-america,Guatemala
+north-america,Belize
+north-america,El Salvador
+north-america,Honduras
+north-america,Costa Rica
+north-america,Nicaragua
+north-america,Panama
+north-america,Bermuda
+north-america,Bahamas
+north-america,Haiti
+north-america,Cuba
+north-america,Jamaica
+north-america,Dominican Republic
+Dominican Republic,Dominican Republic
+north-america,St.Kitts and Nevis
+north-america,St. Lucia
+north-america,St. Vincent and The Grenadines
+north-america,Barbados
+north-america,Grenada
+north-america,Trinidad and Tobago
+south-america,Columbia
+south-america,Venezuela
+south-america,Guyana
+south-america,Suriname
+south-america,Brazil
+south-america,Ecuador
+south-america,Peru
+south-america,Bolivia
+south-america,Paraguay
+south-america,Chile
+south-america,Argentina
+south-america,Uruguay
+europe,Iceland
+europe,Norway
+europe,Sweden
+europe,Finland
+europe,Russia
+europe,Estonia
+europe,Latvia
+europe,Lithuania
+europe,Belarus
+europe,Ireland
+europe,UK
+europe,Denmark
+europe,Portugal
+europe,Spain
+europe,Andorra
+europe,France
+europe,Monaco
+europe,Switzerland
+europe,Lieischenstein
+europe,Luxembourg
+europe,Belgium
+europe,Netherlands
+europe,Germany
+europe,Italy
+europe,Malta
+europe,San Marino
+europe,Poland
+europe,Czech Republic
+europe,Slovakia
+europe,Austria
+europe,Hungary
+europe,Slovenia
+europe,Croatia
+europe,Bosnia and Herzegovina
+europe,Serbia
+europe,Montenegro
+europe,Albania
+North Macedonia,North Macedonia
+europe,Greece
+europe,Bulgaria
+europe,Romania
+europe,Moldova
+europe,Ukraine
+africa,Morocco
+africa,Algeria
+africa,Tunisia
+africa,Libya
+africa,Egypt
+africa,Mauritania
+africa,Mali
+africa,Senegal
+africa,Gambia
+Guinea,Guinea
+africa,Guinea
+africa,Sierra Leone
+africa,Liberia
+africa,Ivory Coast
+africa,Ghana
+Burkina Faso,Burkina Faso
+africa,Togo
+africa,Benin
+africa,Niger
+africa,Nigeria
+africa,Chad
+africa,Cameroon
+africa,Central African Republic
+Sudan,Sudan
+Sudan,Sudan
+africa,Eritrea
+africa,Djibouti
+africa,Ethiopia
+africa,Somalia
+Guinea,Guinea
+africa,Gabon
+africa,Republic of Congo
+africa,(Democratic Republic of) Congo
+africa,Uganda
+africa,Kenya
+africa,Rwanda
+africa,Burundi
+africa,Tanzania
+africa,Angola
+africa,Zambia
+africa,Malawi
+africa,Mozambique
+africa,Namibia
+africa,Botswana
+africa,Zimbabwe
+africa,South Africa
+africa,Lesotho
+africa,Swaziland
+africa,Seychelles
+africa,Comoros
+africa,Madagascar
+africa,Mauritius
+africa,Cape Verde
+africa,Sai Tome and Principe
+asia,Yemen
+asia,Oman
+asia,UAE
+asia,Qatar
+asia,Bahrain
+asia,Saudi Arabia
+asia,Kuwait
+asia,Iraq
+asia,Jordan
+asia,Israel
+asia,Lebanon
+asia,Syria
+asia,Cyprus
+Turkey,Turkey
+Georgia,Georgia
+Armenia,Armenia
+asia,Azerbaijan
+asia,Iran
+asia,Afghanistan
+asia,Pakistan
+asia,Turkmenistan
+asia,Uzbekistan
+asia,Tajikistan
+asia,Kyrgyzstan
+asia,Kazakhstan
+asia,China
+asia,Mongolia
+asia,India
+asia,Nepal
+asia,Srilanka
+asia,Maldives
+asia,Bhutan
+asia,Bangladesh
+asia,Myanmar
+asia,Thailand
+asia,Laos
+asia,Cambodia
+asia,Vietnam
+asia,Malaysia
+asia,Singapore
+asia,Brunei
+asia,Indonesia
+asia,East Timor
+asia,Philippines
+asia,South Korea
+asia,North Korea
+asia,Japan
+oceania,Australia
+oceania,New Zealand
+Guinea,Guinea
+oceania,Palau
+oceania,Micronesia
+oceania,Marshall Islands
+oceania,Nauru
+oceania,Vanuatu
+oceania,Solomon Islands
+oceania,Kiribati
+oceania,Tuvalu
+oceania,Tonga
+oceania,Fiji
+oceania,Samoa
+europe,Kosova
+asia,Palestine
+africa,Western Sahara
+Cyprus,Cyprus
+asia,Taiwan
+europe,Vatican City
