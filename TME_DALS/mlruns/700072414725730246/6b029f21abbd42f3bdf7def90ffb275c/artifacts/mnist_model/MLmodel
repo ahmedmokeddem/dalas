@@ -1,0 +1,28 @@
+artifact_path: mnist_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.11.3
+model_size_bytes: 345906
+model_uuid: cf6796a3e46545f2912bc50dfb7cd222
+run_id: 6b029f21abbd42f3bdf7def90ffb275c
+saved_input_example_info:
+  artifact_path: input_example.json
+  format: tf-serving
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "uint8", "shape": [-1, 784]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "uint8", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-04-04 13:58:20.298285'

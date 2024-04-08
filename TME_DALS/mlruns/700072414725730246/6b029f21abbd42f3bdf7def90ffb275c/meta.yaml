@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ahmed/Pictures/dalas/mlruns/700072414725730246/6b029f21abbd42f3bdf7def90ffb275c/artifacts
+end_time: 1712239103243
+entry_point_name: ''
+experiment_id: '700072414725730246'
+lifecycle_stage: active
+run_id: 6b029f21abbd42f3bdf7def90ffb275c
+run_name: secretive-worm-474
+run_uuid: 6b029f21abbd42f3bdf7def90ffb275c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712239099781
+status: 3
+tags: []
+user_id: ahmed
