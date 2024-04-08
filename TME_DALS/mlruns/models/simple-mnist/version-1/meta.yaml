@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1712239103237
+current_stage: None
+description: null
+last_updated_timestamp: 1712239103237
+name: simple-mnist
+run_id: 6b029f21abbd42f3bdf7def90ffb275c
+run_link: null
+source: file:///home/ahmed/Pictures/dalas/mlruns/700072414725730246/6b029f21abbd42f3bdf7def90ffb275c/artifacts/mnist_model
+status: READY
+status_message: null
+storage_location: file:///home/ahmed/Pictures/dalas/mlruns/700072414725730246/6b029f21abbd42f3bdf7def90ffb275c/artifacts/mnist_model
+user_id: null
+version: 1
