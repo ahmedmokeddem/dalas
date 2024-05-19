@@ -22,7 +22,6 @@ pyelftools==0.30
 pyevmasm==0.2.3
 pyformlang==1.0.7
 Pygments==2.14.0
-PyGObject==3.42.1
 pyinotify==0.9.6
 PyJWT==2.3.0
 pymacaroons==0.13.0
