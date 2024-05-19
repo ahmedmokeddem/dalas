@@ -1,3 +1,4 @@
+# Requires Python 3.10.9
 absl-py==1.4.0
 ailment==9.2.91
 aiohttp==3.8.3
