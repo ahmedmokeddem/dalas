@@ -1,4 +1,8 @@
 # Requires Python 3.10.9
+import sys
+if sys.version_info[0:2] != (2, 6):
+    raise Exception('Requires python 3.10.9')
+
 absl-py==1.4.0
 ailment==9.2.91
 aiohttp==3.8.3
