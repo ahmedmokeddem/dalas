@@ -28,7 +28,6 @@ pymacaroons==0.13.0
 PyMeeus==0.5.12
 pymongo==4.3.3
 requests-toolbelt==0.9.1
-toolz==0.12.1
 torch==2.3.0+cpu
 torchaudio==2.3.0+cpu
 torchvision==0.18.0+cpu
