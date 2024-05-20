@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 
-df=pd.read_csv("../datasets_merged/df_mergedFinal.csv")
+df=pd.read_csv("datasets_merged/df_mergedFinal.csv")
 df.loc[df["Country"]=="Antigua and Barbuda", 'Continent']="north-america"
 df.loc[df["Country"]=="British Virgin Islands", 'Continent']="north-america"
 
@@ -67,7 +67,7 @@ with st.container(border=True):
 st.markdown("<h2 style='text-align: center; color: white;'>Axe historique</h2>", unsafe_allow_html=True)
 
 with st.container(border=True):
-    df_gdp=pd.read_csv("../datasets_dw/Ahmed/dataset GDP.csv", skiprows=[0,1,2])
+    df_gdp=pd.read_csv("datasets_dw/Ahmed/dataset GDP.csv", skiprows=[0,1,2])
     df_gdp=df_gdp.drop(['Country Code', 'Indicator Name', 'Indicator Code'], axis=1).iloc[:,:-1]
     df_gdp=df_gdp.rename(columns={'Country Name':'Country'})
     df_gdp.loc[df_gdp['Country'] == 'Congo, Dem. Rep.', 'Country'] = "DR Congo"
@@ -84,7 +84,7 @@ with st.container(border=True):
     df_gdp.loc[df_gdp['Country'] == 'St. Lucia', 'Country'] = "Saint Lucia"
     df_gdp.loc[df_gdp['Country'] == 'St. Vincent and the Grenadines', 'Country'] = "Saint Vincent and the Grenadines"
     df_gdp.loc[df_gdp['Country'] == 'St. Kitts and Nevis', 'Country'] = "Saint Kitts and Nevis"
-    df=pd.read_csv("../datasets_merged/df_mergedFinal.csv")
+    df=pd.read_csv("datasets_merged/df_mergedFinal.csv")
     df_contient_country=df.loc[:,['Country', 'Continent']]
     df_gdp_continent_interm=pd.merge(df_contient_country, df_gdp, on='Country' )
     df_gdp_continent_interm=df_gdp_continent_interm.drop(['Country'],axis=1)
