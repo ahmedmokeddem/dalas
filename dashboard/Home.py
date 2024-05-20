@@ -5,8 +5,9 @@ import plotly.graph_objects as go
 import subprocess
 
 try:
-    subprocess.run(["python", "-m", "pip", "install", "prophet==1.1.2"])    print("Prophet installed successfully.")
-except e:
+    subprocess.run(["python", "-m", "pip", "install", "prophet==1.1.2"])    
+    print("Prophet installed successfully.")
+except Exception as e:
     print("Failed to install Prophet.")
     print(e)
 
