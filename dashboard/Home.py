@@ -2,22 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import os
 
-# Specify the directory you want to list
-directory = 'path/to/your/directory'
-
-# List the contents of the directory
-try:
-    with os.scandir(directory) as entries:
-        for entry in entries:
-            print(entry.name)
-except FileNotFoundError:
-    print(f"The directory {directory} does not exist")
-except PermissionError:
-    print(f"You do not have permissions to access {directory}")
-    
-    
 st.set_page_config(
     page_title="Home",
     page_icon="👋",
