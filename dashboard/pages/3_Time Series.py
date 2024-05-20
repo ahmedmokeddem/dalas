@@ -25,7 +25,7 @@ st.markdown("<div style='margin-top: 50px'></div>", unsafe_allow_html=True)
 
 
 # Charger les données
-df_gdp=pd.read_csv("../datasets_dw/Ahmed/dataset GDP.csv", skiprows=[0,1,2])
+df_gdp=pd.read_csv("datasets_dw/Ahmed/dataset GDP.csv", skiprows=[0,1,2])
 df_gdp=df_gdp.drop(['Country Code', 'Indicator Name', 'Indicator Code'], axis=1).iloc[:,:-1]
 df_gdp=df_gdp.rename(columns={'Country Name':'Country'})
 df_gdp.loc[df_gdp['Country'] == 'Congo, Dem. Rep.', 'Country'] = "DR Congo"
@@ -43,7 +43,7 @@ df_gdp.loc[df_gdp['Country'] == 'St. Lucia', 'Country'] = "Saint Lucia"
 df_gdp.loc[df_gdp['Country'] == 'St. Vincent and the Grenadines', 'Country'] = "Saint Vincent and the Grenadines"
 df_gdp.loc[df_gdp['Country'] == 'St. Kitts and Nevis', 'Country'] = "Saint Kitts and Nevis"
 
-df=pd.read_csv("../datasets_merged/df_mergedFinal.csv")
+df=pd.read_csv("datasets_merged/df_mergedFinal.csv")
 
 
 df_contient_country=df.loc[:,['Country', 'Continent']]

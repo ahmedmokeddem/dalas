@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 st.markdown("<h1 style='text-align: center; color: white;'>Regroupement des pays en clusters</h1>", unsafe_allow_html=True)
-df=pd.read_csv("../datasets_merged/df_mergedFinal.csv")
+df=pd.read_csv("datasets_merged/df_mergedFinal.csv")
 numerical_columns = df.select_dtypes(include=['number'])
 df_num=numerical_columns.drop(columns=['Annee_Souverainete','Break_1','Break_2', 'Break_3', 'Break_4', 'Break_5','Political_Regime', 'Mean_Rank_Univ'])
 df_num.drop(['Averageiq_Ici2017Score', 'Averageiqpisa2022Meanscoremathematics','Averageiqpisa2022Meanscorereading','Averageiqpisa2022Meanscorescience'], axis=1, inplace=True)
