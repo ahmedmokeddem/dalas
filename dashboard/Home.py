@@ -2,14 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import subprocess
 
-try:
-    subprocess.run(["python", "-m", "pip", "install", "prophet==1.1.2"])    
-    print("Prophet installed successfully.")
-except Exception as e:
-    print("Failed to install Prophet.")
-    print(e)
 
 st.set_page_config(
     page_title="Home",
