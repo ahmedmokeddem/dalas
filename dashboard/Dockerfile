@@ -3,14 +3,13 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-RUN  pip install --upgrade pip
-RUN git clone https://github.com/ahmedmokeddem/dalas.git .
 RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 RUN python -m pip install "prophet==1.1.2"
 RUN pip3 install plotly
 RUN pip install numpy
+RUN pip install streamlit
 
-COPY dashboard/ ./
+COPY ./ ./
 
 
 EXPOSE 8501
