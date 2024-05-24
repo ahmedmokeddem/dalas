@@ -97,13 +97,13 @@ exp = explainer.explain_instance(sample, predict_wrapper, num_features=len(featu
 custom_css = """
 <style>
 svg text {
-    fill: white !important;
+    fill: black !important;
 }
 svg rect {
-    stroke: white !important;
+    stroke: black !important;
 }
 svg line {
-    stroke: white !important;
+    stroke: black !important;
 }
 </style>
 """
