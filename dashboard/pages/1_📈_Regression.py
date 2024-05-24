@@ -34,10 +34,10 @@ col1, col2 = st.columns([0.7, 0.3])
 
 
 
-data_dashboard=pd.read_csv('model_code/Dashboard_data_regression.csv')
-data_dashboard_y=pd.read_csv('model_code/Dashboard_data_regression_y.csv')
+data_dashboard=pd.read_csv('dashboard/data/Dashboard_data_regression.csv')
+data_dashboard_y=pd.read_csv('dashboard/data/Dashboard_data_regression_y.csv')
 # Load the best model's state dictionary
-best_model_path = 'model_code/best_model.pth'
+best_model_path = 'dashboard/data/best_model.pth'
 model = Regressor()
 model.load_state_dict(torch.load(best_model_path))
 
