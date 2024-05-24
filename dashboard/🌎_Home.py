@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon="🌎",
     layout="wide"
 )
-
+print(st.get_option('theme.backgroundColor'))
 
 df=pd.read_csv("dashboard/data/df_mergedFinal.csv")
 df.loc[df["Country"]=="Antigua and Barbuda", 'Continent']="north-america"
