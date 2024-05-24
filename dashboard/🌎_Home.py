@@ -43,7 +43,7 @@ df.loc[df["Country"]=="Taiwan", 'Gdp']=611.396*10**6
 df_continent_gdp=df.loc[:, ["Continent", "Gdp"]].groupby("Continent").mean().reset_index().sort_values(by="Gdp")
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
-st.markdown("<h1 style='text-align: center; color: white;'>L'intelligence est elle acquise ou innée ?</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>L'intelligence est elle acquise ou innée ?</h1>", unsafe_allow_html=True)
 df_filtered = df.loc[(~df['Averageiqbycountry_Iqlynnbecker2019'].isna())&(~df['Continent'].isna())]
 df_filtered=df_filtered[['Country','Continent','Averageiqbycountry_Iqlynnbecker2019']]
 fig = px.histogram(df_filtered, x='Averageiqbycountry_Iqlynnbecker2019', color='Continent', nbins=30, 
@@ -53,7 +53,7 @@ fig = px.histogram(df_filtered, x='Averageiqbycountry_Iqlynnbecker2019', color='
 # Renommer l'axe des x
 fig.update_xaxes(title_text='Quotient intellectuel (QI)')
 st.plotly_chart(fig, use_container_width=True)
-st.markdown("<h2 style='text-align: center; color: white;'>Axe géoeconomique</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; '>Axe géoeconomique</h2>", unsafe_allow_html=True)
 
 with st.container(border=True):
     col1, col2 = st.columns([0.5, 0.5])
@@ -66,7 +66,7 @@ with st.container(border=True):
         fig_country_gdp = px.pie(df_country_gdp, values='Gdp', names='Country', title='PIB moyen par pays')
         st.plotly_chart(fig_country_gdp,use_container_width=True)
 
-st.markdown("<h2 style='text-align: center; color: white;'>Axe historique</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; '>Axe historique</h2>", unsafe_allow_html=True)
 
 with st.container(border=True):
     df_gdp=pd.read_csv("dashboard/data/dataset GDP.csv", skiprows=[0,1,2])
@@ -115,7 +115,7 @@ with st.container(border=True):
         fig_continent_indiceEvol = px.bar(df_continent_indiceEvol, x='Continent', y='Indice_Evolution',  title='Indice Evolution moyen par continent')
         st.plotly_chart(fig_continent_indiceEvol,use_container_width=True)
 
-st.markdown("<h2 style='text-align: center; color: white;'>Axe socio-économique</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; '>Axe socio-économique</h2>", unsafe_allow_html=True)
 
 with st.container(border=True):
     col1, col2 = st.columns([0.7, 0.3])
@@ -156,7 +156,7 @@ with st.container(border=True):
                         
     st.plotly_chart(fig, use_container_width=True)
 
-st.markdown("<h2 style='text-align: center; color: white;'>Axe culturel et educatif</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; '>Axe culturel et educatif</h2>", unsafe_allow_html=True)
 
 with st.container(border=True):
     col1, col2 = st.columns([0.5, 0.5])

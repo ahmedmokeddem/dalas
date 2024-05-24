@@ -15,7 +15,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.markdown("<h1 style='text-align: center; color: white;'>Regroupement des pays en clusters</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>Regroupement des pays en clusters</h1>", unsafe_allow_html=True)
 st.markdown("<div style='margin-top: 50px'></div>", unsafe_allow_html=True)
 
 col1, col2,col3 = st.columns([1,0.5,1])

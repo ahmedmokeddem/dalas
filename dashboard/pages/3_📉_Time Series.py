@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 
-st.markdown("<h1 style='text-align: center; color: white;'>Analyse temporelle de de l'indice d'évolution des pays</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>Analyse temporelle de de l'indice d'évolution des pays</h1>", unsafe_allow_html=True)
 st.markdown("<div style='margin-top: 50px'></div>", unsafe_allow_html=True)
 
 
@@ -168,13 +168,13 @@ st.markdown("<div style='margin-top: 50px'></div>", unsafe_allow_html=True)
 st.pyplot(plt.gcf())
 plt.close()
 
-st.markdown(f"<h2 style='text-align: center; color: white;'>Analyse des composantes temporelles - {choix1}</h2>", unsafe_allow_html=True)
+st.markdown(f"<h2 style='text-align: center; '>Analyse des composantes temporelles - {choix1}</h2>", unsafe_allow_html=True)
 
 #plt.style.use('dark_background')
 plt.title("Décomposition de l'indice d'évolution de " + choix1, color='white')
 prophet_model_1Country.plot_components(forecast_firstCountry)
 st.pyplot(plt.gcf())
-st.markdown(f"<h2 style='text-align: center; color: white;'>Analyse des composantes temporelles - {choix2}</h2>", unsafe_allow_html=True)
+st.markdown(f"<h2 style='text-align: center; '>Analyse des composantes temporelles - {choix2}</h2>", unsafe_allow_html=True)
 
 plt.title("Décomposition de l'indice d'évolution de " + choix2, color='white')
 prophet_model_2Country.plot_components(forecast_secondCountry)

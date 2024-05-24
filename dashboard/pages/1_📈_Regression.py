@@ -29,7 +29,7 @@ class Regressor(nn.Module):
         return self.model(x)
 
 
-st.markdown("<h1 style='text-align: center; color: white;'>L'intelligence est elle acquise ou innée ?</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>L'intelligence est elle acquise ou innée ?</h1>", unsafe_allow_html=True)
 col1, col2 = st.columns([0.7, 0.3])
 
 
