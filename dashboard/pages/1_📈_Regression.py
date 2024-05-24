@@ -79,7 +79,7 @@ sample = data_dashboard.iloc[sample_idx,:-1]
 
 #show them as metrics 
 
-value1 = np.round(np.float(predict_wrapper(sample)[0]),2)
+value1 = np.round(float(predict_wrapper(sample)[0]),2)
 value2 = np.round(data_dashboard_y.iloc[sample_idx].values[0],2)
 
 # Centrer les valeurs dans la colonne
