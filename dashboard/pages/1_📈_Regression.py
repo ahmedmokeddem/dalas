@@ -68,7 +68,7 @@ question = "Choisissez un pays !"  # Définir votre question ici
 options = data_dashboard["Country"].unique()  # Supposons que votre colonne s'appelle "Options"
 
 # Liste déroulante pour la sélection de l'option
-choix = st.selectbox(question, options)
+choix = st.selectbox(question, options,index=list(options).index('Belgium'))
 
 st.markdown("<div style='margin-top: 50px'></div>", unsafe_allow_html=True)
 indice = data_dashboard[data_dashboard["Country"] == choix].index[0]
